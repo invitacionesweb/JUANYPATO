@@ -305,6 +305,15 @@ footer img {
     align-items: center;
 
 }
+.lovestory {
+    color: var(--color-terciario);
+    text-align: center;
+
+}
+.lovestory p {
+    font-size: 1.3rem;
+padding: 0 30px  ;
+}
 .timing img {
     max-width: 800px;
 }
